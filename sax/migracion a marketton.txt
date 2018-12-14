@@ -1,0 +1,41 @@
+listado de librerias nuevas incluidas en el case
+switch para css
+bootstrap = activa boostrap
+jquery-ui = activa jquery-ui
+bootstrap-datepicker activa bootstrap-datepicker
+jqgrid = jqgrid
+jquery-treeview = jquery-treeview
+/*nueva plantilla*/
+font-awesome = font-awesome
+nprogress = nprogress
+icheck = icheck
+bootstrap-progressbar = bootstrap-progressbar
+jqvmap = jqvmap
+bootstrap-daterangepicker = bootstrap-daterangepicker
+bootstrap-wysiwyg = bootstrap-wysiwyg  principalmente se usa para formularios
+select2 = select2 principalmente se usa para formularios
+switchery = switchery principalmente se usa para formularios
+starrr = starrr
+
+
+javascript switch
+
+fastclick = fastclick
+nprogress = nprogress
+chart-js = chart-js  variante de hightcharts
+gauge-js = gauge-js
+bootstrap-progressbar = bootstrap-progressbar
+icheck = icheck
+skycons = skycons
+flot = flot
+datejs = datejs
+jqvmap = jqvmap
+bootstrap-daterangepicker =  bootstrap-daterangepicker
+bootstrap-wysiwyg =  bootstrap-wysiwyg
+jquerytaginput = jquerytaginput
+select2 = select2
+switchery
+parsley = parsley
+autosize =autosize
+jqueryautocomplete = jqueryautocomplete
+pnotify = pnotify
